@@ -1,0 +1,24 @@
+{
+  "name": "qrs",
+  "version": "1.0.0",
+  "description": "QualityRemovalServicesSite",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edoczkat/QRS.git"
+  },
+  "keywords": [
+    "Quality",
+    "Removal",
+    "Services"
+  ],
+  "author": "Eric Doczkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edoczkat/QRS/issues"
+  },
+  "homepage": "https://github.com/edoczkat/QRS#readme"
+}
